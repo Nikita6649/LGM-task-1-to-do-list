@@ -1,2 +1,2 @@
 # LGM-task-1-to-do-list
-To do list task
+Create a todo list webapp using html,css and javascript
