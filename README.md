@@ -1,2 +1,2 @@
-# https://lnkd.in/d_5fhd3e
+# LGM Task 1 to do list
 Create a todo list webapp using html,css and javascript
